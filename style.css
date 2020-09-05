@@ -1,0 +1,64 @@
+h1{
+    font-size:30px !important;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 18px black;
+    border-radius:20px;
+}
+
+.heading_div{
+    background:white;
+    float:none;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+    box-shadow:5px 5px 18px black;
+}
+
+.heading_div_2{
+    font-size:18px;
+}
+
+.name{
+    color: rgb(39, 39, 39);
+}
+
+.copyright_footer{
+    position:fixed;
+    width:100%;
+    bottom:0;
+    line-height:3;
+    background-color:cyan;
+    color:black;
+    text-align:center;
+}
+
+
+canvas{
+    border:3px solid black;
+    border-radius:20px;
+    margin-top:110px;
+    box-shadow:5px 5px 18px black;
+    margin-bottom:30px;
+}
+
+.result_para_tag{
+    border:5px cyan outset;
+    border-radius:30px;
+    font-size:20px !important;
+    margin-right:475px;
+    margin-top:100px;
+}
+
+.result_para_tag_2{
+    border:5px cyan outset;
+    border-radius:30px;
+    font-size:20px !important;
+    margin-left:475px;
+    margin-top:100px;
+}
